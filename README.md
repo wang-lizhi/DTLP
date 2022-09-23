@@ -27,6 +27,7 @@ git clone https://github.com/zspCoder/DTLP
 4. Run the file **Test.py** to test the model.
 
 ## Citation
+```
 @inproceedings{zhang2021learning,<br/>
   title={Learning Tensor Low-Rank Prior for Hyperspectral Image Reconstruction},<br/>
   author={Zhang, Shipeng and Wang, Lizhi and Zhang, Lei and Huang, Hua},<br/>
@@ -34,3 +35,4 @@ git clone https://github.com/zspCoder/DTLP
   pages={12006--12015},<br/>
   year={2021}<br/>
 }
+```
